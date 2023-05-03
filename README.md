@@ -2,6 +2,7 @@
 - 👀 I’m interested in Android and PWA
 - 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on Android projects
+- Now Active in Game Dev. and Design
 - 📫 mail me @ jhalakkc5@gmail.com
 
 <!---
